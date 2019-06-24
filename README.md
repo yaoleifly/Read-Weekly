@@ -23,7 +23,7 @@
 [微信公众号](https://mp.weixin.qq.com/s/EGdpQWIvWd1XjDSBNP9sgA)
 
 更新教程和读书心得，时不时抖机灵。
-<div align=left><img width="150" height="150" src="https:/https://i.loli.net/2019/06/24/5d10944012a0e16495.png"/></div>
+<div align=left><img width="150" height="150" src="http://ww4.sinaimg.cn/large/006tNc79ly1g4cdi1z48fj30dw0dwadi.jpg"/></div>
 
 
 ## 理念
@@ -35,3 +35,8 @@ Think Outside The Box And Monkey Reading.
 在数字世界里，有不计其数的角落需要我们去发掘，如同只猴子般保持好奇心，去探索发现，去重新进化成未来的人类。
 
 以上都是我编的。
+
+
+## 版权问题
+
+本项目搜集的所有书籍均不可用于商业目的，仅限交流学习，且鼓励购买纸质书籍收藏。
