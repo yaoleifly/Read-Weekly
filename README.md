@@ -23,7 +23,8 @@
 [微信公众号](https://mp.weixin.qq.com/s/EGdpQWIvWd1XjDSBNP9sgA)
 
 更新教程和读书心得，时不时抖机灵。
-![扫码订阅.png](https://i.loli.net/2019/06/24/5d10944012a0e16495.png)
+![扫码订阅.png](https://i.loli.net/2019/06/24/5d10944012a0e16495.png){:height="50%" width="50%"}
+
 
 
 
